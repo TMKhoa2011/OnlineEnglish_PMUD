@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project_PMUD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+795c85fd33f0c32ac9d42f3e4d35400579f7bd1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project_PMUD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project_PMUD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

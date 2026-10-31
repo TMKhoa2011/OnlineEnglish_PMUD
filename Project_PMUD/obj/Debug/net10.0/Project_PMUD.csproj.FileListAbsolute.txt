@@ -230,3 +230,5 @@ D:\PhanMemUngDung\Project_PMUD\Project_PMUD\obj\Debug\net10.0\refint\Project_PMU
 D:\PhanMemUngDung\Project_PMUD\Project_PMUD\obj\Debug\net10.0\Project_PMUD.pdb
 D:\PhanMemUngDung\Project_PMUD\Project_PMUD\obj\Debug\net10.0\Project_PMUD.genruntimeconfig.cache
 D:\PhanMemUngDung\Project_PMUD\Project_PMUD\obj\Debug\net10.0\ref\Project_PMUD.dll
+D:\PhanMemUngDung\Project_PMUD\Project_PMUD\obj\Debug\net10.0\Project_PMUD.sourcelink.json
+D:\PhanMemUngDung\Project_PMUD\Project_PMUD\bin\Debug\net10.0\BCrypt-Net-Next.dll
